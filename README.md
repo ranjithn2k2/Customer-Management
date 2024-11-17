@@ -185,8 +185,7 @@
 
 
 
-
-    ### *Challenges Faced During the Assignment and Resolutions*
+ ### *Challenges Faced During the Assignment and Resolutions*
 
 
 #### *1. Handling Cross-Origin Resource Sharing (CORS)*  
